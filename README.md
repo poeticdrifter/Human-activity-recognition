@@ -1,4 +1,5 @@
 # Human-activity-recognition
+Dataset link: https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones
 Machine learning models to recognize the activity of a person based on the activities carried out. Sensors were used to collect the data from different users while they were doing their regular works. Problem statement: Perform exploratory data analysis to check for: Build a machine learning model to classify the data Cluster the data using K-Means clustering algorithm. The value of K shouldn’t be based on the given class information. Instead, use elbow criteria to find the optimal value for K to cluster the data. Compare the results of both classification and clustering techniques. Check of there are any false negative, false positive cases.
 Meta data regarding the dataset -
 The Human Activity Recognition database was built from the recordings of 30 study participants performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors. The objective is to classify activities into one of the six activities performed.
